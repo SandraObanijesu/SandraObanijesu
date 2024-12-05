@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandraObanijesu
+- 👋 Hi, I’m Sandra Obanijesu
 - 👀 I’m interested in data analytics, SQL, and Power BI projects.
 - 🌱 I’m currently learning Python, and expanding my knowledge in SQL Server and data visualization techniques with Power BI.
 - 💞️ I’m looking to collaborate on data analysis projects, especially those involving data cleaning, transformation, Exploratory data analysis and visualization
