@@ -6,7 +6,7 @@
         Power BI
         Python (learning)
         Excel
--📈 Currently exploring:
+  -📈 Currently exploring:
       Data storytelling with Power BI
       Automating reports
       Real-world data projects that make an impact
