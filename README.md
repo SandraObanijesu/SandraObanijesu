@@ -1,5 +1,5 @@
 # Hi there!👋 
-I'm Sandra Obanijesu,a **Data Analyst** with a background in **Economics** and a **Chartered Accountant certification**. I combine analytical skills with financial insight to draw meaningful conclusions from data, create insightful reports, and support business decision making. My background helps me approach data with a strategic and results driven mindset.
+I'm Sandra Obanijesu, a **Data Analyst** with a background in **Economics** and a **Chartered Accountant certification**. I combine analytical skills with financial insight to draw meaningful conclusions from data, create insightful reports, and support business decision making. My background helps me approach data with a strategic and results driven mindset.
 
 
 ---
@@ -28,15 +28,6 @@ I'm Sandra Obanijesu,a **Data Analyst** with a background in **Economics** and a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sandraobanijesu) 
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:sandraobanijesu@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCq7bX-VOti-ltkZuKNJCvoA)
-
----
-## 📈 GitHub Stats
-
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandraObanijesu&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraObanijesu&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SandraObanijesu&theme=default)
 
 ---
 > “The future belongs to those who learn, grow, and never give up.” – Sandra 💫
