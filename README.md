@@ -27,6 +27,7 @@ I'm Sandra Obanijesu, a **Data Analyst** with a background in **Economics** and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sandraobanijesu) 
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:sandraobanijesu@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sandraobanijesu/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCq7bX-VOti-ltkZuKNJCvoA)
 
 ---
